@@ -1,0 +1,74 @@
+
+body{
+    background-color: black;
+    color: aliceblue;
+    }
+    .heading{
+      text-align: center;
+    }
+    .classHeading{
+      display: inline-block;
+      background-color: dodgerblue;
+      color: black;
+    text-align: center;
+      width: 302px;
+      border: 1px solid white;
+      border-radius: 19px;
+      padding: 42px;
+      margin-left: 51%;
+      font-weight: bold;
+    }
+    .classHeading:hover{
+      background-color:yellowgreen;
+      color: blue;
+
+    }
+    .functionHeading:hover{
+      background-color: rosybrown;
+      color: blue;
+    }
+    .functionHeading{
+      display: inline-block;
+      background-color: dodgerblue;
+      color: black;
+      font-weight: bold;
+     position: absolute;
+      left: 28%;
+      text-align: center;
+      width: 302px;
+      border: 1px solid white;
+      border-radius: 19px;
+      padding: 42px;
+    }
+    .functionalExternalStyle{
+      color: yellow;
+    }
+    .classExternalStyle{
+      color: red;
+    }
+    .functionalBox{
+        background-color: rosybrown;
+        border-radius: 55px;
+        padding:1rem;
+        margin: 5rem 1rem;
+        margin-right: 0;
+        text-align: center;
+        width: fit-content;
+        float: left;
+        color: white;
+
+    }
+    
+    .classBox{
+        background-color: yellowgreen;
+        border-radius: 55px;
+        padding:1rem;
+        margin: 5rem 1rem;
+        margin-left: 0;
+        text-align: center;
+        width: fit-content;
+        float: right;
+        color: white;
+
+    }
+    
